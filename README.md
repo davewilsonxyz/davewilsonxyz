@@ -10,9 +10,9 @@ Website coming soon.
 
 - 🌱 I’m learning Revit API and web development. 
 
-- 🔭 I’m currently working on a addin to check Revit data.
+- 🔭 I’m currently working on tool to check Revit data.
 
-- 👯 I’m looking to work on computational design projects where I get to fully utilise my skills. 
+- 👯 I’m looking to work on computational design projects and fully utilise my skills. 
 
 - 🧑‍💻 Previous experience with data science and machine learning. 
 
