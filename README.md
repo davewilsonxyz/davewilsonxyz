@@ -26,7 +26,7 @@ Adding value. Solving problems.
 
 Here are some ideas to get you started:
 
-
+Emojis [LINK](https://github.com/ikatyang/emoji-cheat-sheet)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
