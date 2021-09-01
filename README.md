@@ -6,7 +6,7 @@ Interested in how technology can be used to improve the built environment. Skill
 
 Website coming soon. 
 
-- 🌱 I’m learning Revit API and Web development. 
+- 🌱 I’m learning Revit API and web development. 
 
 - 🔭 I’m currently working on a addin to check Revit data.
 
