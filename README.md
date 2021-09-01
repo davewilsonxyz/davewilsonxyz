@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Dave, a computational designer based in London. 
 
 Interested in how technology can be used to improve the built environment. Skilled with Dynamo, Grasshopper and Python. 
