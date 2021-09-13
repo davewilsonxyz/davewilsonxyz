@@ -8,7 +8,7 @@ Website coming soon.
 
 - 🌱 I’m learning QGIS, Revit API and Web Development(HTML, CSS, JavaScript and React.js). 
 
-- 🔭 I’m currently working on tool to check Revit data.
+- 🔭 I’m currently working on tool to check Revit data conformity.
 
 - 👯 I’m looking to work on computational design projects and fully utilise my skills. 
 
