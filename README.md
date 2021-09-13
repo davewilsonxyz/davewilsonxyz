@@ -6,7 +6,7 @@ Website coming soon.
 
 
 
-- 🌱 I’m learning QGIS, Revit API and Web Development(HTML, CSS, JavaScript and React.js). 
+- 🌱 I’m learning QGIS, Revit API and Web Development(HTML, CSS, JavaScript, React and ThreeJS). 
 
 - 🔭 I’m currently working on tool to check Revit data conformity.
 
