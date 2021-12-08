@@ -2,17 +2,11 @@ I'm Dave, a computational designer based in London.
 
 Interested in how technology can be used to improve the built environment. Skilled with Dynamo, Grasshopper and Python. 
 
-Website coming soon. 
 
 
 
-- 🌱 I’m learning QGIS, Revit API and Web Development(HTML, CSS, JavaScript, React and ThreeJS). 
 
-- 🔭 I’m currently working on tool to check Revit data conformity.
-
-- 👯 I’m looking to work on computational design projects and fully utilise my skills. 
-
-- 🧑‍💻 Previous experience with data science and machine learning. 
+- 🌱 Studying Machine Learning
 
 - 📫 davewilson@live.co.uk
 
