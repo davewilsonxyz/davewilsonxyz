@@ -6,9 +6,9 @@ Interested in how technology can be used to improve the built environment. Skill
 
 
 
-- 🌱 Studying Machine Learning
+- 🌱 Currently learning Web Development and Machine Learning
 
-- 📫 davewilson@live.co.uk
+- 📫 davewilsonxyz@gmail.com
 
 Adding value. Solving problems.
 
