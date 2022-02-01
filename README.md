@@ -10,7 +10,6 @@ Interested in how technology can be used to improve the built environment. Skill
 
 - 📫 davewilsonxyz@gmail.com
 
-Adding value. Solving problems.
 
 
 <!--
